@@ -3,7 +3,7 @@
 ## 사용한 기술
 
 * Swift 5, Xcode 12.5.1
-* Storyboard, AutoLayout, UIKit
+* UIButton, UILabel
 
 ## 수행 역할
 

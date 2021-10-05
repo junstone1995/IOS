@@ -3,11 +3,10 @@
 ## 사용한 기술
 
 * Swift 5, Xcode 12.5.1
-* Storyboard, AutoLayout, UIKit
+* UINavigationController
 
 ## 수행 역할
 
-* AutoLayout 을 이용해 UI 구현.
 * UINavigationController를 이용해 화면 전환및 데이터 전달 
 
 ## 스토리보드
