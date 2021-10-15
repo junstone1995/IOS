@@ -93,7 +93,7 @@
         <!--일기 작성-->
         <scene sceneID="Z5x-ql-V3Y">
             <objects>
-                <viewController id="G3C-eQ-L3D" customClass="WriteDiaryViewController" customModule="IOS_Diary" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="WriteDiaryViewController" id="G3C-eQ-L3D" customClass="WriteDiaryViewController" customModule="IOS_Diary" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="NQF-sy-1hC">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
