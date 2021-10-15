@@ -9,4 +9,5 @@ IOS 공부 내용을 정리해놓은 공간입니다.
 | Calculator 1    | StackView를 이용해 아이폰과 똑같은 계산기 구현               | [바로가기](https://github.com/junstone1995/IOS/tree/master/IOS_Calculator/IphoneCal) |
 | Calculator 2    | enum을 이용해 함수형 계산기(MVC 형태)                        | [바로가기](https://github.com/junstone1995/IOS/tree/master/IOS_Calculator/Calculator) |
 | TodoList        | TableView를 이용한 TodoList                                  | [바로가기](https://github.com/junstone1995/IOS/tree/master/IOS_TodoList) |
+| Diary           | CollectionView를 이용한 일기 앱                              | [바로가기](https://github.com/junstone1995/IOS/tree/master/IOS_Diary) |
 
