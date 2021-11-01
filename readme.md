@@ -11,4 +11,5 @@ IOS 공부 내용을 정리해놓은 공간입니다.
 | TodoList        | TableView를 이용한 TodoList                                  | [바로가기](https://github.com/junstone1995/IOS/tree/master/IOS_TodoList) |
 | Diary           | CollectionView를 이용한 일기 앱                              | [바로가기](https://github.com/junstone1995/IOS/tree/master/IOS_Diary) |
 | Pomodoro        | 애니메이션 기능이 들어간 스탑워치                            | [바로가기](https://github.com/junstone1995/IOS/tree/master/IOS_pomodoro) |
+| myAssets        | SwiftUI로 제작한 자산 관리 화면 뷰                           | [바로가기](https://github.com/junstone1995/IOS/tree/master/IOS_myAssets) |
 
