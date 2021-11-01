@@ -1,4 +1,4 @@
-# QuotesGenerator(명언 생성기)
+# myAssets(내 자산관리)
 
 ## 사용한 기술
 
